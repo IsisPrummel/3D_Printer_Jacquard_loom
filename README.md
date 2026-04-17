@@ -1,2 +1,2 @@
 # 3D_Printer_Jacquard_loom
-This github contains all components to recreate the computational jacquard weaving loom.
+This branch contains the info about the parts needed to recreate the loom.
